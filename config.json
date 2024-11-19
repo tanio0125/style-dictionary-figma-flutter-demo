@@ -1,0 +1,16 @@
+{
+  "source": ["design/**/*.json"],
+  "platforms": {
+    "flutter": {
+      "transformGroup": "figma-flutter",
+      "buildPath": "./lib/",
+      "files": [
+        {
+          "destination": "theme/data.g.dart",
+          "format": "flutter/theme/data.dart",
+          "prefix": "App"
+        }
+      ]
+    }
+  }
+}
