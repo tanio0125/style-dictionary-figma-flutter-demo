@@ -1,6 +1,6 @@
 # flutter_style_dictionary_figma
 
-flutter_style_dictionary_figmaの動作サンプル
+flutter_style_dictionary_figmaの動作確認デモ
 
 https://github.com/aloisdeniel/style-dictionary-figma-flutter?tab=readme-ov-file
 
