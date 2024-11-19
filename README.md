@@ -1,16 +1,14 @@
 # flutter_style_dictionary_figma
 
-A new Flutter project.
+flutter_style_dictionary_figmaの動作サンプル
 
-## Getting Started
+https://github.com/aloisdeniel/style-dictionary-figma-flutter?tab=readme-ov-file
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# コマンド
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## インストール
+`npm install -g style-dictionary-figma-flutter`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 書き出し
+`$ style-dictionary-figma-flutter`
